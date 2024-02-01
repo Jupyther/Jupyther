@@ -5,7 +5,7 @@
 **o** Que faire ici?:
 - Avoir un aperçu de mes aptitudes;
 - Critiquer mes travaux;
-- S'inspirer d'une approche.
+- S'inspirer d'une approche ou d'une analyse.
 
 **o** Once upon a time:
 
